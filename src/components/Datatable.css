@@ -1,0 +1,21 @@
+.datatable{
+    display: grid;
+    justify-content: center;
+    background-color: white;
+    color: black;
+}
+
+.datatable__title {
+    text-align: center;
+    margin: 20px;
+}
+
+.datatable__data{
+    padding-bottom: 50px;
+}
+
+.datatable__loader {
+    position: absolute;
+    top: 61.5%;
+    left: 48.6%;
+}

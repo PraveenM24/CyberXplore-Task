@@ -1,0 +1,64 @@
+.session {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.session__card{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 50px;
+    color: white;
+    background-color: #007BFF;
+    margin: 5% 21.3%;
+    padding: 20px;
+    border-radius: 5px;
+    min-width: 550px;
+}
+.session__card > img{
+    height: 50%;
+    width: 75%;
+}
+
+.session__subtitle {
+    padding: 20px;
+}
+
+.session__subtitle2 {
+    padding-top: 80px;
+}
+
+.session__input>input {
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px 0 0 5px;
+    width: 49.8% !important;
+    font-weight: 600;
+}
+
+.session__input>input:focus {
+    outline: none;
+}
+
+
+.session__input>.MuiButtonBase-root {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-radius: 0 5px 5px 0;
+    height: auto;
+}
+
+.session__title {
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.session__table {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    width: 57.3% !important;
+}

@@ -1,0 +1,19 @@
+.navbar__elements{
+    display: flex;
+    align-items: center;
+}
+
+.navbar__title{
+    color: rgb(223, 222, 222);
+}
+
+.navbar__link__1 {
+    padding: 10px 15px !important;
+}
+
+.navbar__link {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px 10px 0;
+    font-size: 16px;
+}

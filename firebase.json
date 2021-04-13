@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site" :"cyberxplore-task",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
